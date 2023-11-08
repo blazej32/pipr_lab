@@ -1,4 +1,5 @@
-# Napisz funkcję, która liczby mniejsze od 0 podmienia na 0, a inne przepisuje (appenduje do nowej tabeli)
+# Napisz funkcję, która liczby mniejsze od 0 podmienia na 0, a inne przepisuje
+# (appenduje do nowej tabeli)
 
 def negative_to_zero(list):
     new_list = []
