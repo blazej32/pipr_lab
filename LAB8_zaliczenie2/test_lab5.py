@@ -1,4 +1,4 @@
-from .lab5 import division
+from lab5 import division
 import pytest
 
 
